@@ -1,0 +1,4 @@
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\Задание1..GeneratedMSBuildEditorConfig.editorconfig
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\Задание1..AssemblyInfoInputs.cache
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\Задание1..AssemblyInfo.cs
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\Задание1..csproj.CoreCompileInputs.cache

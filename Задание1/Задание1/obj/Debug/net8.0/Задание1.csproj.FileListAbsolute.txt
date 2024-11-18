@@ -1,0 +1,14 @@
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\Задание1.GeneratedMSBuildEditorConfig.editorconfig
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\Задание1.AssemblyInfoInputs.cache
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\Задание1.AssemblyInfo.cs
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\Задание1.csproj.CoreCompileInputs.cache
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\bin\Debug\net8.0\Задание1.exe
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\bin\Debug\net8.0\Задание1.deps.json
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\bin\Debug\net8.0\Задание1.runtimeconfig.json
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\bin\Debug\net8.0\Задание1.dll
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\bin\Debug\net8.0\Задание1.pdb
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\Задание1.dll
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\refint\Задание1.dll
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\Задание1.pdb
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\Задание1.genruntimeconfig.cache
+C:\YDisk\#Федя\#projects\колледж\C#\Задание1\Задание1\obj\Debug\net8.0\ref\Задание1.dll
